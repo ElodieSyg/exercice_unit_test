@@ -1,0 +1,23 @@
+{
+  "name": "exercice_unit_test",
+  "version": "1.0.0",
+  "description": "exercice_unit_test",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayavongElodie/exercice_unit_test.git"
+  },
+  "author": "Elodie sayavong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayavongElodie/exercice_unit_test/issues"
+  },
+  "homepage": "https://github.com/SayavongElodie/exercice_unit_test#readme",
+  "dependencies": {
+    "jest": "^27.2.1",
+    "moment": "^2.29.1"
+  }
+}
